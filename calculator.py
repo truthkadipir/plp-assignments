@@ -12,5 +12,5 @@ def calculator():
         print(int(num1) / int(num2))
     else:
         print("invalid operator")
-    if __name__ == "__main__":
-        calculator()
+if __name__ == "__main__":
+    calculator()

@@ -9,6 +9,5 @@ def list1():
     del my_list[-1]
     my_list.sort()
     print(my_list.index(30))
-
 if __name__ == "__main__":
     list1()
