@@ -1,0 +1,45 @@
+/* Element Selector */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    color: #333;
+  }
+  
+  /* ID Selector */
+  #main-title {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Class Selector */
+  .intro {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: #e8f8f5;
+    border-left: 5px solid #1abc9c;
+  }
+  
+  /* Style an image */
+  .styled-img {
+    display: block;
+    margin: 0 auto 30px auto;
+    border: 4px solid #3498db;
+    padding: 5px;
+    border-radius: 8px;
+  }
+  
+  /* Another Class Selector */
+  .content-box {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
